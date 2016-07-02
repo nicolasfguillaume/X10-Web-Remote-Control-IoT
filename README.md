@@ -2,9 +2,11 @@
 
 ## Putting together the NodeMCU and the X10 transmitter (433 MHz)
 
-![Pic 1](https://github.com/nicolasfguillaume/X10-web-remote-control/blob/master/X10-3.jpg)
+https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-2.jpg
 
-![Pic 2](https://github.com/nicolasfguillaume/X10-web-remote-control/blob/master/X10-2.jpg)
+![Pic 1](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-3.jpg)
+
+![Pic 2](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-2.jpg)
 
 ## Accessing the web server (on the NodeMCU)
 
