@@ -9,7 +9,7 @@ Required material:
 
 ![Pic 1](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-3.jpg)
 
-![Pic 2](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-2.jpg)
+![Pic 2](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-22.jpg)
 
 ## Accessing the web server (living on the NodeMCU)
 
