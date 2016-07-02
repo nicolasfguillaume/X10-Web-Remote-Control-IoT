@@ -1,5 +1,11 @@
 # X10 Web Remote Control with NodeMCU
 
+With this project, you will be able to control any X10 compatible device (outlet plugs, lamps, appliances...) from the browser of your smartphone. You will be able to switch on, off and even dim lights.
+
+Examples of X10 compatible device:
+
+![Pic 1](http://www.leroymerlin.fr/multimedia/771401124704/produits/lot-de-3-prises-telecommandables-interieure-dio.jpg)
+
 Required material:
 - NodeMCU ESP-12E
 - FS1000A 433MHz RF transmitter (X10 compatible)
