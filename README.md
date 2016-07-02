@@ -3,7 +3,7 @@
 Regquried material:
 - NodeMCU ESP-12E
 - FS1000A 433MHz rf transmitter
-- X10RF library (by [domocreation](http://www.domocreation.fr/projets/librairies/x10-rf-arduino.html) )
+- X10RF library (by [domocreation](http://www.domocreation.fr/projets/librairies/x10-rf-arduino.html))
 
 ## Putting together the NodeMCU and the X10 transmitter (433 MHz)
 
