@@ -1,8 +1,11 @@
 # X10 Web Remote Control with NodeMCU
 
-## Putting together the NodeMCU and the X10 transmitter (433 MHz)
+Regquried material:
+- NodeMCU ESP-12E
+- FS1000A 433MHz rf transmitter
+- X10RF library (by [domocreation](http://www.domocreation.fr/projets/librairies/x10-rf-arduino.html) )
 
-https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-2.jpg
+## Putting together the NodeMCU and the X10 transmitter (433 MHz)
 
 ![Pic 1](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-3.jpg)
 
