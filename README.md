@@ -1,8 +1,8 @@
 # X10 Web Remote Control with NodeMCU
 
-Regquried material:
+Required material:
 - NodeMCU ESP-12E
-- FS1000A 433MHz rf transmitter
+- FS1000A 433MHz RF transmitter (X10 compatible)
 - X10RF library (by [domocreation](http://www.domocreation.fr/projets/librairies/x10-rf-arduino.html))
 
 ## Putting together the NodeMCU and the X10 transmitter (433 MHz)
@@ -11,7 +11,11 @@ Regquried material:
 
 ![Pic 2](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/X10-2.jpg)
 
-## Accessing the web server (on the NodeMCU)
+## Accessing the web server (living on the NodeMCU)
+
+Simply type the NodeMCU local ip address in your web browser. 
 
 ![Pic 3](https://github.com/nicolasfguillaume/X10-Web-Remote-Control-IoT/blob/master/screenshot-android.jpg)
+
+Note: If you want to access your web server from anywhere, you will have to modify the port forwarding on your router.
 
